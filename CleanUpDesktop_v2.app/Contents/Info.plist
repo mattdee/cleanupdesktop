@@ -34,7 +34,7 @@
 		<key>bundleDividerCollapsed</key>
 		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>1267</real>
+		<real>645</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -44,7 +44,7 @@
 		<key>positionOfDivider</key>
 		<real>525</real>
 		<key>savedFrame</key>
-		<string>391 1608 1566 859 -1852 1050 5120 1440 </string>
+		<string>920 210 944 859 0 0 1920 1200 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
